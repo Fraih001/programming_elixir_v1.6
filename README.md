@@ -6,4 +6,9 @@ Chapter 1
   
 Chapter 2  
   
+++ Elixir called the = sign the match operator  
+++ Elixir will only change the value of a variable on the left side of an equals sign—on the right a variable is replaced with its value.  
+  
+Chapter 3  
+  
 ++ 
