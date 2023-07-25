@@ -11,4 +11,8 @@ Chapter 2
   
 Chapter 3  
   
+++ In Elixir, due to data immutability, each process has it's own heap / garbage collection, making garbage collection must faster than in OOP languages  
+  
+Chapter 4  
+  
 ++ 
