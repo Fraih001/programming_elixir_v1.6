@@ -15,4 +15,14 @@ Chapter 3
   
 Chapter 4  
   
+++ ~r{} sigil + delimiters are used for regular expressions - page 27 & 28
+++ a PID is a reference to a local or remote process and a port is a reference to a resource (typically external)  
+++ PID of a current process is available by calling self  
+++ the function make_ref create a globally unique reference where no other reference will be equal to it  
+++ Maps allow only one entry for a particular key, whereas keyword lists allow the key to be repeated.    
+++ There are two date/time types: DateTime and NaiveDateTime. The naive version contains just a date and a time; DateTime adds the ability to associate a time zone. The ~N[...] sigil constructs NaiveDateTime structs.  
+++ with allows you to declare variables (that might have already been declared elsewhere) within the scope of the following do block  
+  
+Chapter 5  
+  
 ++ 
