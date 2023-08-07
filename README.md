@@ -25,4 +25,8 @@ Chapter 4
   
 Chapter 5  
   
-++ 
+++ anonymouse functions (see chapter for more info)  
+  
+Chapter 6  
+  
+++  
