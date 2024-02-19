@@ -29,4 +29,8 @@ Chapter 5
   
 Chapter 6  
   
-++  
+++ Modules (see chapter for more info)
+
+Chapter 7
+
+++ 
